@@ -16,14 +16,19 @@ if (!extension_loaded('iconv')) {
 	die('Missing iconv extension.');
 }
 
+$dir = __DIR__;
+
+// Internationalization
+$wgExtensionMessagesFiles['PHPExcel'] = $dir . '/PHPExcel.i18n.php';
+
 $wgExtensionCredits['other'][] = array(
-       'path' => __FILE__,
-       'name' => 'PHPExcel',
-       'author' =>'Kim Eik', 
-       'url' => 'https://www.mediawiki.org/wiki/Extension:PHPExcel', 
-       'description' => 'This extension is a container for the PHPExcel library',
-       'version'  => '1.7.8',
+	'path' => __FILE__,
+	'name' => 'PHPExcel',
+	'author' => 'Kim Eik',
+	'url' => 'https://www.mediawiki.org/wiki/Extension:PHPExcel',
+	'descriptionmsg' => 'phpexcel-desc',
+	'version' => '1.7.8',
 );
 
 ## PHPExcel library
-$wgAutoloadClasses['PHPExcel'] = dirname(__FILE__) . '/includes/PHPExcel.php';
+$wgAutoloadClasses['PHPExcel'] = $dir . '/includes/PHPExcel.php';
