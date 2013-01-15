@@ -72,3 +72,10 @@ $messages['mk'] = array(
 $messages['pms'] = array(
 	'phpexcel-desc' => 'Contenidor për la [http://phpexcel.codeplex.com/ librerìa PHPExcel]',
 );
+
+/** Ukrainian (українська)
+ * @author Ата
+ */
+$messages['uk'] = array(
+	'phpexcel-desc' => 'Контейнер для [http://phpexcel.codeplex.com/ PHPExcel бібліотеки]',
+);
