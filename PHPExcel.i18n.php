@@ -45,6 +45,13 @@ $messages['gl'] = array(
 	'phpexcel-desc' => 'Contedor para a [http://phpexcel.codeplex.com/ biblioteca PHPExcel]',
 );
 
+/** Hungarian (magyar)
+ * @author Dj
+ */
+$messages['hu'] = array(
+	'phpexcel-desc' => '[http://phpexcel.codeplex.com/ PHPExcel könyvtár] konténer',
+);
+
 /** Japanese (日本語)
  * @author Shirayuki
  */
