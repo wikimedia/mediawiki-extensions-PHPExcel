@@ -93,3 +93,10 @@ $messages['pms'] = array(
 $messages['uk'] = array(
 	'phpexcel-desc' => 'Контейнер для [http://phpexcel.codeplex.com/ PHPExcel бібліотеки]',
 );
+
+/** Simplified Chinese (中文（简体）‎)
+ * @author Yfdyh000
+ */
+$messages['zh-hans'] = array(
+	'phpexcel-desc' => '[http://phpexcel.codeplex.com/ PHPExcel 库]的容器',
+);
