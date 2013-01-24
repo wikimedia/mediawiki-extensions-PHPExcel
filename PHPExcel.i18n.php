@@ -87,6 +87,13 @@ $messages['pms'] = array(
 	'phpexcel-desc' => 'Contenidor për la [http://phpexcel.codeplex.com/ librerìa PHPExcel]',
 );
 
+/** tarandíne (tarandíne)
+ * @author Joetaras
+ */
+$messages['roa-tara'] = array(
+	'phpexcel-desc' => 'Condenitore pa [http://phpexcel.codeplex.com/ libbrerie PHPExcel]',
+);
+
 /** Ukrainian (українська)
  * @author Ата
  */
