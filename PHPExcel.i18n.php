@@ -80,6 +80,13 @@ $messages['mk'] = array(
 	'phpexcel-desc' => 'Содржател на [http://phpexcel.codeplex.com/ библиотека PHPExcel]',
 );
 
+/** Dutch (Nederlands)
+ * @author Siebrand
+ */
+$messages['nl'] = array(
+	'phpexcel-desc' => 'Container voor de [http://phpexcel.codeplex.com/ bibliotheek PHPExcel]',
+);
+
 /** Piedmontese (Piemontèis)
  * @author Dragonòt
  */
