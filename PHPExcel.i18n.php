@@ -24,6 +24,13 @@ $messages['qqq'] = array(
 	'phpexcel-desc' => '{{desc|name=PHPExcel|url=http://www.mediawiki.org/wiki/Extension:PHPExcel}}',
 );
 
+/** Asturian (asturianu)
+ * @author Xuacu
+ */
+$messages['ast'] = array(
+	'phpexcel-desc' => 'Contenedor pa la [http://phpexcel.codeplex.com/ biblioteca PHPExcel]',
+);
+
 /** German (Deutsch)
  * @author Metalhead64
  */
