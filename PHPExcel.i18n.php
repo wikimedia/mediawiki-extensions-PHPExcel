@@ -38,6 +38,13 @@ $messages['de'] = array(
 	'phpexcel-desc' => 'Container für die [http://phpexcel.codeplex.com/ PHPExcel-Bibliothek]',
 );
 
+/** Spanish (español)
+ * @author Fitoschido
+ */
+$messages['es'] = array(
+	'phpexcel-desc' => 'Contenedor para la [http://phpexcel.codeplex.com/ biblioteca PHPExcel]',
+);
+
 /** French (français)
  * @author Gomoko
  */
