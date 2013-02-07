@@ -59,6 +59,13 @@ $messages['gl'] = array(
 	'phpexcel-desc' => 'Contedor para a [http://phpexcel.codeplex.com/ biblioteca PHPExcel]',
 );
 
+/** Upper Sorbian (hornjoserbsce)
+ * @author Michawiki
+ */
+$messages['hsb'] = array(
+	'phpexcel-desc' => 'Kontener za [http://phpexcel.codeplex.com/ biblioteku PHPExcel]',
+);
+
 /** Hungarian (magyar)
  * @author Dj
  */
