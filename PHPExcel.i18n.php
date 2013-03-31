@@ -94,6 +94,13 @@ $messages['ko'] = array(
 	'phpexcel-desc' => '[http://phpexcel.codeplex.com/ PHPExcel 라이브러리]에 대한 컨테이너',
 );
 
+/** Colognian (Ripoarisch)
+ * @author Purodha
+ */
+$messages['ksh'] = array(
+	'phpexcel-desc' => 'Behällder för de [http://phpexcel.codeplex.com/ Projramm_Sammlong <i lang="en">PHPExcel</i>]',
+);
+
 /** Macedonian (македонски)
  * @author Bjankuloski06
  */
