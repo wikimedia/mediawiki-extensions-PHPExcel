@@ -116,10 +116,11 @@ $messages['nl'] = array(
 );
 
 /** Piedmontese (Piemontèis)
+ * @author Borichèt
  * @author Dragonòt
  */
 $messages['pms'] = array(
-	'phpexcel-desc' => 'Contenidor për la [http://phpexcel.codeplex.com/ librerìa PHPExcel]',
+	'phpexcel-desc' => 'Contnidor për la [http://phpexcel.codeplex.com/ librarìa PHPExcel]',
 );
 
 /** tarandíne (tarandíne)
