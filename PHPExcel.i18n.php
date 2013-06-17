@@ -143,3 +143,10 @@ $messages['uk'] = array(
 $messages['zh-hans'] = array(
 	'phpexcel-desc' => '[http://phpexcel.codeplex.com/ PHPExcel 库]的容器',
 );
+
+/** Traditional Chinese (中文（繁體）‎)
+ * @author Justincheng12345
+ */
+$messages['zh-hant'] = array(
+	'phpexcel-desc' => '[http://phpexcel.codeplex.com/ PHPExcel庫]的儲存外封',
+);
