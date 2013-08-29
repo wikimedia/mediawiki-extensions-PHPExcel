@@ -115,6 +115,13 @@ $messages['nl'] = array(
 	'phpexcel-desc' => 'Container voor de [http://phpexcel.codeplex.com/ bibliotheek PHPExcel]',
 );
 
+/** Occitan (occitan)
+ * @author Cedric31
+ */
+$messages['oc'] = array(
+	'phpexcel-desc' => 'Contenidor per la [http://phpexcel.codeplex.com/ bibliotèca PHPExcel]',
+);
+
 /** Piedmontese (Piemontèis)
  * @author Borichèt
  * @author Dragonòt
