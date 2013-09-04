@@ -122,6 +122,13 @@ $messages['oc'] = array(
 	'phpexcel-desc' => 'Contenidor per la [http://phpexcel.codeplex.com/ bibliotèca PHPExcel]',
 );
 
+/** Polish (polski)
+ * @author Chrumps
+ */
+$messages['pl'] = array(
+	'phpexcel-desc' => 'Kontener [http://phpexcel.codeplex.com/ biblioteki PHPExcel]',
+);
+
 /** Piedmontese (Piemontèis)
  * @author Borichèt
  * @author Dragonòt
