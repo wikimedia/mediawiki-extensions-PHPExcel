@@ -137,6 +137,20 @@ $messages['pms'] = array(
 	'phpexcel-desc' => 'Contnidor për la [http://phpexcel.codeplex.com/ librarìa PHPExcel]',
 );
 
+/** Portuguese (português)
+ * @author Cainamarques
+ */
+$messages['pt'] = array(
+	'phpexcel-desc' => 'Recipiente para a [http://phpexcel.codeplex.com/ biblioteca PHPExcel]',
+);
+
+/** Brazilian Portuguese (português do Brasil)
+ * @author Cainamarques
+ */
+$messages['pt-br'] = array(
+	'phpexcel-desc' => 'Recipiente para a [http://phpexcel.codeplex.com/ biblioteca PHPExcel]',
+);
+
 /** tarandíne (tarandíne)
  * @author Joetaras
  */
