@@ -158,6 +158,13 @@ $messages['roa-tara'] = array(
 	'phpexcel-desc' => 'Condenitore pa [http://phpexcel.codeplex.com/ libbrerie PHPExcel]',
 );
 
+/** Russian (русский)
+ * @author Okras
+ */
+$messages['ru'] = array(
+	'phpexcel-desc' => 'Контейнер для [http://phpexcel.codeplex.com/ библиотеки PHPExcel]',
+);
+
 /** Ukrainian (українська)
  * @author Ата
  */
