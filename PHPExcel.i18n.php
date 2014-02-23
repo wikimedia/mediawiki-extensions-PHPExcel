@@ -45,6 +45,13 @@ $messages['es'] = array(
 	'phpexcel-desc' => 'Contenedor para la [http://phpexcel.codeplex.com/ biblioteca PHPExcel]',
 );
 
+/** Persian (فارسی)
+ * @author Armin1392
+ */
+$messages['fa'] = array(
+	'phpexcel-desc' => 'کانتینر برای [http://phpexcel.codeplex.com/ PHPExcel library]',
+);
+
 /** French (français)
  * @author Gomoko
  */
