@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Metalhead64"
-        ]
-    },
-    "phpexcel-desc": "Container für die [http://phpexcel.codeplex.com/ PHPExcel-Bibliothek]"
+	"@metadata": {
+		"authors": [
+			"Metalhead64"
+		]
+	},
+	"phpexcel-desc": "Container für die [http://phpexcel.codeplex.com/ PHPExcel-Bibliothek]"
 }

@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Ата"
-        ]
-    },
-    "phpexcel-desc": "Контейнер для [http://phpexcel.codeplex.com/ PHPExcel бібліотеки]"
+	"@metadata": {
+		"authors": [
+			"Ата"
+		]
+	},
+	"phpexcel-desc": "Контейнер для [http://phpexcel.codeplex.com/ PHPExcel бібліотеки]"
 }

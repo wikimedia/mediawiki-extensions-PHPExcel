@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Gomoko"
-        ]
-    },
-    "phpexcel-desc": "Conteneur pour la [http://phpexcel.codeplex.com/ bibliothèque PHPExcel]"
+	"@metadata": {
+		"authors": [
+			"Gomoko"
+		]
+	},
+	"phpexcel-desc": "Conteneur pour la [http://phpexcel.codeplex.com/ bibliothèque PHPExcel]"
 }

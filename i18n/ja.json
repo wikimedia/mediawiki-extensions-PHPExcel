@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Shirayuki"
-        ]
-    },
-    "phpexcel-desc": "[http://phpexcel.codeplex.com/ PHPExcel ライブラリ]用のコンテナー"
+	"@metadata": {
+		"authors": [
+			"Shirayuki"
+		]
+	},
+	"phpexcel-desc": "[http://phpexcel.codeplex.com/ PHPExcel ライブラリ]用のコンテナー"
 }

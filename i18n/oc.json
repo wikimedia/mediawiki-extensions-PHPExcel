@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Cedric31"
-        ]
-    },
-    "phpexcel-desc": "Contenidor per la [http://phpexcel.codeplex.com/ bibliotèca PHPExcel]"
+	"@metadata": {
+		"authors": [
+			"Cedric31"
+		]
+	},
+	"phpexcel-desc": "Contenidor per la [http://phpexcel.codeplex.com/ bibliotèca PHPExcel]"
 }
