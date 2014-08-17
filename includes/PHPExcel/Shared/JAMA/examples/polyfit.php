@@ -12,7 +12,7 @@ require_once "../Matrix.php";
 * @param $X array x values
 * @param $Y array y values
 * @param $n int order of polynomial to be used for fitting
-* @returns array $coeffs of polynomial coefficients
+* @return array $coeffs of polynomial coefficients
 * Pre-Conditions: the system is not underdetermined: sizeof($X) > $n+1
 */
 function polyfit($X, $Y, $n) {
