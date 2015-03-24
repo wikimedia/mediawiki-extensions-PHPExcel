@@ -2,8 +2,9 @@
 	"@metadata": {
 		"authors": [
 			"Raymond",
-			"Shirayuki"
+			"Shirayuki",
+			"Umherirrender"
 		]
 	},
-	"phpexcel-desc": "{{desc|name=PHPExcel|url=http://www.mediawiki.org/wiki/Extension:PHPExcel}}"
+	"phpexcel-desc": "{{desc|name=PHPExcel|url=https://www.mediawiki.org/wiki/Extension:PHPExcel}}"
 }
