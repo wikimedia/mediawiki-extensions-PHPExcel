@@ -20,7 +20,6 @@ $dir = __DIR__;
 
 // Internationalization
 $wgMessagesDirs['PHPExcel'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles['PHPExcel'] = $dir . '/PHPExcel.i18n.php';
 
 $wgExtensionCredits['other'][] = array(
 	'path' => __FILE__,
